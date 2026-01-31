@@ -25,6 +25,7 @@ public class Shortbread{
         System.out.println(flour + " oz/" + flourG + " grams of flour.");
         System.out.println(sugar + " oz/" + sugarG + " grams of sugar.");
         System.out.println(butter + " oz/" + butterG+ " grams of butter.");
+        System.out.println("There are other ingredients in Shortbread too!");
 
 
     }
