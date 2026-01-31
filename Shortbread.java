@@ -9,7 +9,7 @@ public class Shortbread{
         double sugar; // 0.083
         double flourG, sugarG, butterG;
         
-        
+        System.out.println("Hello!");
         System.out.println("How much Shortbread do you want to make?");
         numOfBread = read.nextInt();
 
